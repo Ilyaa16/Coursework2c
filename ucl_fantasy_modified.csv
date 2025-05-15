@@ -1,0 +1,301 @@
+player_name,position,team,opponent_team,is_home,round,minutes,goals,assists,shots,tackles,saves,cost,fantasy_points
+Haaland,FWD,Man City,Celtic,1,1,88,1,0,2,0,0,8.1,7
+Donnarumma,GK,PSG,Braga,1,1,67,0,0,3,0,5,7.9,7
+Mbappé,FWD,PSG,Napoli,0,1,86,1,1,2,0,0,9.6,10
+Rüdiger,DEF,Real Madrid,PSG,0,1,79,0,0,1,2,0,12.5,4
+Vinícius Júnior,FWD,Real Madrid,PSG,1,1,77,0,0,1,0,0,10.1,2
+Saliba,DEF,Arsenal,PSG,0,1,67,0,1,2,3,0,5.7,8
+Rodrygo,FWD,Real Madrid,Celtic,1,1,85,2,0,3,0,0,8.7,12
+Marquinhos,DEF,PSG,Union Berlin,1,1,80,0,0,2,2,0,11.2,4
+Lewandowski,FWD,Barcelona,Napoli,0,1,66,1,0,1,0,0,5.8,7
+Vitinha,MID,PSG,Benfica,0,1,62,0,0,1,2,0,4.6,4
+Félix,FWD,Barcelona,Celtic,1,1,83,2,1,2,0,0,12.7,15
+Raphinha,FWD,Barcelona,Young Boys,0,1,64,0,0,2,0,0,4.2,2
+Modrić,MID,Real Madrid,Braga,0,1,90,1,0,2,1,0,5.8,8
+Neuer,GK,Bayern,Braga,1,1,66,0,0,5,0,6,6.1,8
+Ederson,GK,Man City,Union Berlin,0,1,79,0,0,1,0,6,5.5,8
+Joselu,FWD,Real Madrid,Benfica,1,1,83,0,0,3,0,0,6.7,2
+Valverde,MID,Real Madrid,Napoli,1,1,76,0,2,1,0,0,9.7,8
+Kane,FWD,Bayern,Union Berlin,1,1,80,0,2,2,0,0,6.1,8
+Dias,DEF,Man City,Celtic,1,1,83,0,1,3,4,0,11.7,9
+Skriniar,DEF,PSG,PSG,0,1,63,0,0,2,2,0,12.4,4
+Saka,FWD,Arsenal,Napoli,0,1,87,0,0,2,0,0,5.6,2
+Raya,GK,Arsenal,Benfica,0,1,79,0,0,0,0,9,12.1,11
+Tenas,GK,PSG,Benfica,1,1,83,1,1,4,0,6,8.0,16
+Diaz,FWD,Real Madrid,Braga,0,1,63,1,1,3,0,0,9.9,10
+Álvarez,FWD,Man City,Napoli,1,1,71,1,0,3,0,0,12.2,7
+Carvajal,DEF,Real Madrid,Young Boys,1,1,80,0,0,1,3,0,4.2,5
+ter Stegen,GK,Barcelona,Napoli,1,1,76,1,0,4,0,9,6.8,16
+Endrick,FWD,Real Madrid,Benfica,0,1,60,1,0,4,0,0,9.5,7
+Mendy,DEF,Real Madrid,Union Berlin,0,1,61,0,0,2,2,0,7.8,4
+Safonov,GK,PSG,Leipzig,0,1,83,1,0,5,0,5,9.2,12
+Ugarte,MID,PSG,Union Berlin,0,1,84,0,2,3,0,0,8.8,8
+Hakimi,DEF,PSG,Braga,0,1,67,0,0,1,0,0,8.8,2
+Ramsdale,GK,Arsenal,Celtic,0,1,82,0,0,2,0,5,5.7,7
+Peña,GK,Barcelona,Union Berlin,0,1,90,0,0,1,0,7,12.6,9
+Mendes,DEF,PSG,Celtic,1,1,90,0,0,0,2,0,5.1,4
+De Bruyne,MID,Man City,Braga,1,1,87,0,0,3,1,0,5.6,3
+Gabriel,DEF,Arsenal,Union Berlin,0,1,82,0,1,2,2,0,10.2,7
+Ulreich,GK,Bayern,Benfica,1,1,75,0,0,3,0,12,4.6,14
+Doku,FWD,Man City,Celtic,1,1,61,3,1,2,0,0,10.1,20
+Grealish,FWD,Man City,Union Berlin,1,1,78,2,0,5,0,0,5.6,12
+Pacho,DEF,PSG,Napoli,1,1,62,1,0,2,7,0,10.8,14
+Peretz,GK,Bayern,Napoli,0,1,68,0,0,2,0,2,12.6,4
+Sané,FWD,Bayern,Young Boys,1,1,68,1,1,4,0,0,7.0,10
+Neto,GK,Arsenal,Young Boys,0,1,63,1,0,0,0,5,8.9,12
+De Ligt,DEF,Bayern,Young Boys,1,1,74,0,0,1,2,0,10.3,4
+Yamal,FWD,Barcelona,Leipzig,0,1,77,2,0,1,0,0,9.2,12
+Bravo,GK,PSG,Braga,0,1,81,1,1,3,0,5,8.4,15
+Coman,FWD,Bayern,Braga,1,1,87,0,0,4,0,0,7.6,2
+White,DEF,Arsenal,PSG,0,1,84,1,0,1,1,0,12.0,8
+Szczesny,GK,Barcelona,Union Berlin,0,1,70,1,0,1,0,4,6.7,11
+Haaland,FWD,Man City,Napoli,0,2,81,1,1,0,0,0,6.5,10
+Donnarumma,GK,PSG,Benfica,1,2,67,0,0,1,0,3,7.2,5
+Mbappé,FWD,PSG,PSG,1,2,86,2,0,3,0,0,12.2,12
+Rüdiger,DEF,Real Madrid,Braga,1,2,77,0,0,1,3,0,7.7,5
+Vinícius Júnior,FWD,Real Madrid,Union Berlin,0,2,77,2,0,5,0,0,7.7,12
+Saliba,DEF,Arsenal,Napoli,0,2,75,0,0,5,2,0,5.8,4
+Rodrygo,FWD,Real Madrid,Napoli,0,2,72,0,0,3,0,0,10.0,2
+Marquinhos,DEF,PSG,Leipzig,1,2,81,1,0,2,3,0,7.8,10
+Lewandowski,FWD,Barcelona,Braga,0,2,73,1,1,1,0,0,7.2,10
+Vitinha,MID,PSG,Leipzig,1,2,89,0,1,4,1,0,11.2,6
+Félix,FWD,Barcelona,Leipzig,1,2,76,0,1,3,0,0,9.7,5
+Raphinha,FWD,Barcelona,Benfica,0,2,78,2,0,3,0,0,10.3,12
+Modrić,MID,Real Madrid,Napoli,0,2,62,0,2,1,1,0,7.1,9
+Neuer,GK,Bayern,Union Berlin,0,2,65,0,0,1,0,7,11.2,9
+Ederson,GK,Man City,Napoli,1,2,74,0,0,1,0,4,12.9,6
+Joselu,FWD,Real Madrid,Celtic,0,2,83,1,1,2,0,0,4.3,10
+Valverde,MID,Real Madrid,Benfica,0,2,66,0,1,1,1,0,7.6,6
+Kane,FWD,Bayern,Benfica,0,2,82,1,0,1,0,0,6.9,7
+Dias,DEF,Man City,PSG,0,2,76,0,0,2,3,0,9.3,5
+Skriniar,DEF,PSG,PSG,0,2,69,0,0,2,2,0,4.9,4
+Saka,FWD,Arsenal,Union Berlin,1,2,82,1,1,0,0,0,11.3,10
+Raya,GK,Arsenal,Benfica,0,2,68,0,0,2,0,7,10.0,9
+Tenas,GK,PSG,Napoli,1,2,74,0,0,3,0,8,4.8,10
+Diaz,FWD,Real Madrid,Union Berlin,0,2,90,0,1,0,0,0,7.0,5
+Álvarez,FWD,Man City,Leipzig,0,2,82,2,0,1,0,0,5.2,12
+Carvajal,DEF,Real Madrid,Napoli,0,2,68,0,0,2,6,0,10.6,8
+ter Stegen,GK,Barcelona,Napoli,1,2,71,0,1,1,0,9,9.7,14
+Endrick,FWD,Real Madrid,Union Berlin,1,2,84,1,1,2,0,0,8.2,10
+Mendy,DEF,Real Madrid,Union Berlin,0,2,82,0,0,2,2,0,6.1,4
+Safonov,GK,PSG,Celtic,0,2,65,1,0,1,0,6,6.8,13
+Ugarte,MID,PSG,Braga,0,2,82,0,0,3,1,0,8.1,3
+Hakimi,DEF,PSG,PSG,1,2,74,0,0,2,2,0,6.3,4
+Ramsdale,GK,Arsenal,Braga,1,2,70,1,0,1,0,3,4.9,10
+Peña,GK,Barcelona,Napoli,0,2,67,1,1,4,0,8,5.0,18
+Mendes,DEF,PSG,Braga,1,2,73,0,0,1,3,0,9.5,5
+De Bruyne,MID,Man City,Celtic,0,2,80,0,0,0,0,0,7.6,2
+Gabriel,DEF,Arsenal,Napoli,1,2,70,1,0,3,3,0,9.2,10
+Ulreich,GK,Bayern,PSG,1,2,80,1,0,2,0,6,7.7,13
+Doku,FWD,Man City,PSG,0,2,88,1,1,1,0,0,7.8,10
+Grealish,FWD,Man City,Benfica,0,2,89,0,1,0,0,0,8.2,5
+Pacho,DEF,PSG,Benfica,0,2,77,0,0,3,3,0,7.0,5
+Peretz,GK,Bayern,Celtic,0,2,62,0,0,2,0,6,6.0,8
+Sané,FWD,Bayern,Benfica,0,2,86,0,0,3,0,0,10.5,2
+Neto,GK,Arsenal,Young Boys,1,2,83,0,1,3,0,5,4.8,10
+De Ligt,DEF,Bayern,Celtic,0,2,78,0,1,4,2,0,4.3,7
+Yamal,FWD,Barcelona,PSG,0,2,64,1,1,1,0,0,12.5,10
+Bravo,GK,PSG,Union Berlin,1,2,83,0,0,2,0,8,9.8,10
+Coman,FWD,Bayern,Union Berlin,1,2,85,1,0,1,0,0,12.2,7
+White,DEF,Arsenal,Braga,1,2,63,0,0,3,1,0,6.4,3
+Szczesny,GK,Barcelona,Celtic,1,2,86,0,0,1,0,9,5.5,11
+Haaland,FWD,Man City,Young Boys,0,3,78,0,1,0,0,0,11.5,5
+Donnarumma,GK,PSG,Young Boys,1,3,63,0,0,4,0,3,6.4,5
+Mbappé,FWD,PSG,Young Boys,1,3,70,3,1,1,0,0,8.3,20
+Rüdiger,DEF,Real Madrid,Napoli,0,3,67,0,0,2,7,0,9.3,9
+Vinícius Júnior,FWD,Real Madrid,Young Boys,0,3,71,1,2,3,0,0,12.6,13
+Saliba,DEF,Arsenal,Young Boys,1,3,90,1,0,3,5,0,12.9,12
+Rodrygo,FWD,Real Madrid,Braga,1,3,74,4,1,3,0,0,5.1,25
+Marquinhos,DEF,PSG,Celtic,0,3,78,1,1,4,5,0,9.4,15
+Lewandowski,FWD,Barcelona,Young Boys,1,3,87,2,2,2,0,0,9.2,18
+Vitinha,MID,PSG,Benfica,0,3,63,0,0,3,0,0,11.8,2
+Félix,FWD,Barcelona,Union Berlin,0,3,82,0,0,1,0,0,4.1,2
+Raphinha,FWD,Barcelona,Braga,1,3,76,0,0,5,0,0,10.6,2
+Modrić,MID,Real Madrid,Union Berlin,0,3,62,0,0,3,1,0,5.0,3
+Neuer,GK,Bayern,Napoli,1,3,63,0,1,1,0,5,12.9,10
+Ederson,GK,Man City,Young Boys,1,3,79,1,0,1,0,6,7.5,13
+Joselu,FWD,Real Madrid,Napoli,0,3,85,1,1,0,0,0,12.7,10
+Valverde,MID,Real Madrid,Napoli,0,3,62,0,0,1,3,0,9.6,5
+Kane,FWD,Bayern,Braga,0,3,84,0,0,0,0,0,11.9,2
+Dias,DEF,Man City,Young Boys,0,3,87,0,0,1,2,0,12.4,4
+Skriniar,DEF,PSG,Young Boys,0,3,61,0,0,2,2,0,6.0,4
+Saka,FWD,Arsenal,Braga,1,3,64,4,1,5,0,0,11.8,25
+Raya,GK,Arsenal,Napoli,1,3,83,0,0,6,0,7,11.4,9
+Tenas,GK,PSG,Leipzig,1,3,70,0,1,0,0,3,4.8,8
+Diaz,FWD,Real Madrid,Young Boys,0,3,68,3,1,3,0,0,10.8,20
+Álvarez,FWD,Man City,Leipzig,0,3,61,1,1,1,0,0,12.4,10
+Carvajal,DEF,Real Madrid,Benfica,1,3,77,1,0,3,1,0,11.7,8
+ter Stegen,GK,Barcelona,Union Berlin,1,3,74,1,0,0,0,5,4.2,12
+Endrick,FWD,Real Madrid,Union Berlin,0,3,74,2,0,0,0,0,5.4,12
+Mendy,DEF,Real Madrid,Leipzig,0,3,63,0,0,1,1,0,4.7,3
+Safonov,GK,PSG,Union Berlin,1,3,81,0,1,1,0,9,10.5,14
+Ugarte,MID,PSG,Leipzig,0,3,62,0,0,4,4,0,9.6,6
+Hakimi,DEF,PSG,Benfica,1,3,80,1,1,1,3,0,9.4,13
+Ramsdale,GK,Arsenal,Union Berlin,1,3,79,0,0,1,0,5,8.1,7
+Peña,GK,Barcelona,Benfica,0,3,77,0,0,8,0,7,8.3,9
+Mendes,DEF,PSG,PSG,1,3,60,0,0,2,2,0,4.3,4
+De Bruyne,MID,Man City,PSG,1,3,81,0,2,2,0,0,10.0,8
+Gabriel,DEF,Arsenal,Benfica,0,3,88,0,0,1,3,0,10.4,5
+Ulreich,GK,Bayern,Union Berlin,1,3,89,0,0,4,0,1,5.5,3
+Doku,FWD,Man City,Union Berlin,0,3,77,1,0,2,0,0,12.8,7
+Grealish,FWD,Man City,PSG,0,3,67,1,1,0,0,0,5.5,10
+Pacho,DEF,PSG,Union Berlin,1,3,78,0,1,2,3,0,4.3,8
+Peretz,GK,Bayern,Napoli,0,3,71,0,1,4,0,6,7.6,11
+Sané,FWD,Bayern,PSG,1,3,74,1,0,3,0,0,9.6,7
+Neto,GK,Arsenal,Benfica,0,3,74,0,0,3,0,7,7.9,9
+De Ligt,DEF,Bayern,Union Berlin,1,3,88,0,0,2,3,0,9.9,5
+Yamal,FWD,Barcelona,Celtic,0,3,67,2,0,1,0,0,12.0,12
+Bravo,GK,PSG,Union Berlin,1,3,75,0,0,2,0,3,4.3,5
+Coman,FWD,Bayern,Braga,0,3,64,1,0,4,0,0,4.3,7
+White,DEF,Arsenal,Union Berlin,1,3,68,0,1,0,2,0,8.1,7
+Szczesny,GK,Barcelona,Braga,0,3,64,0,0,2,0,5,6.9,7
+Haaland,FWD,Man City,Braga,0,4,66,2,1,2,0,0,4.3,15
+Donnarumma,GK,PSG,Braga,1,4,75,1,0,1,0,6,12.7,13
+Mbappé,FWD,PSG,Celtic,1,4,60,1,1,4,0,0,4.3,10
+Rüdiger,DEF,Real Madrid,Benfica,0,4,73,1,0,4,0,0,9.4,7
+Vinícius Júnior,FWD,Real Madrid,Celtic,0,4,60,1,2,4,0,0,6.9,13
+Saliba,DEF,Arsenal,Union Berlin,0,4,65,1,1,2,0,0,9.8,10
+Rodrygo,FWD,Real Madrid,Braga,0,4,60,2,0,2,0,0,6.1,12
+Marquinhos,DEF,PSG,Napoli,0,4,71,0,0,1,3,0,12.6,5
+Lewandowski,FWD,Barcelona,Leipzig,1,4,87,0,1,2,0,0,8.8,5
+Vitinha,MID,PSG,Celtic,0,4,75,0,0,3,1,0,12.6,3
+Félix,FWD,Barcelona,PSG,0,4,78,1,1,1,0,0,8.4,10
+Raphinha,FWD,Barcelona,Benfica,0,4,79,0,2,2,0,0,10.5,8
+Modrić,MID,Real Madrid,Leipzig,0,4,72,0,1,1,0,0,8.7,5
+Neuer,GK,Bayern,Celtic,0,4,83,0,0,2,0,9,4.0,11
+Ederson,GK,Man City,Union Berlin,1,4,80,1,0,1,0,5,11.0,12
+Joselu,FWD,Real Madrid,Leipzig,1,4,78,1,0,2,0,0,7.8,7
+Valverde,MID,Real Madrid,Braga,0,4,76,0,1,1,0,0,9.8,5
+Kane,FWD,Bayern,PSG,0,4,70,0,1,3,0,0,10.3,5
+Dias,DEF,Man City,Young Boys,1,4,81,0,0,0,1,0,11.4,3
+Skriniar,DEF,PSG,PSG,1,4,65,0,0,0,3,0,12.0,5
+Saka,FWD,Arsenal,Young Boys,0,4,67,1,1,4,0,0,9.8,10
+Raya,GK,Arsenal,Benfica,1,4,67,0,0,1,0,10,9.1,12
+Tenas,GK,PSG,PSG,0,4,72,0,0,1,0,2,6.7,4
+Diaz,FWD,Real Madrid,Benfica,1,4,62,1,1,1,0,0,12.9,10
+Álvarez,FWD,Man City,Benfica,1,4,71,0,0,0,0,0,6.3,2
+Carvajal,DEF,Real Madrid,Benfica,0,4,60,0,0,1,1,0,6.0,3
+ter Stegen,GK,Barcelona,Braga,1,4,68,0,1,2,0,8,12.4,13
+Endrick,FWD,Real Madrid,Leipzig,1,4,77,0,0,2,0,0,5.9,2
+Mendy,DEF,Real Madrid,Union Berlin,0,4,74,0,0,4,3,0,11.8,5
+Safonov,GK,PSG,PSG,0,4,73,0,1,5,0,5,11.0,10
+Ugarte,MID,PSG,Benfica,1,4,87,0,0,1,1,0,9.6,3
+Hakimi,DEF,PSG,PSG,0,4,78,0,0,1,5,0,9.6,7
+Ramsdale,GK,Arsenal,Celtic,0,4,82,0,0,0,0,2,10.2,4
+Peña,GK,Barcelona,PSG,0,4,63,0,0,1,0,11,9.9,13
+Mendes,DEF,PSG,Young Boys,0,4,86,0,0,2,3,0,4.2,5
+De Bruyne,MID,Man City,Celtic,0,4,69,0,1,3,0,0,4.6,5
+Gabriel,DEF,Arsenal,Benfica,1,4,76,0,0,2,1,0,6.9,3
+Ulreich,GK,Bayern,PSG,1,4,67,1,0,3,0,7,6.5,14
+Doku,FWD,Man City,Leipzig,1,4,87,3,1,2,0,0,6.0,20
+Grealish,FWD,Man City,Napoli,1,4,82,3,1,3,0,0,4.8,20
+Pacho,DEF,PSG,Young Boys,0,4,72,1,0,0,2,0,8.2,9
+Peretz,GK,Bayern,PSG,0,4,79,0,0,1,0,4,6.4,6
+Sané,FWD,Bayern,Union Berlin,0,4,75,2,1,3,0,0,5.1,15
+Neto,GK,Arsenal,Union Berlin,1,4,73,0,1,3,0,6,12.3,11
+De Ligt,DEF,Bayern,Benfica,1,4,87,0,0,0,3,0,7.4,5
+Yamal,FWD,Barcelona,Union Berlin,1,4,85,1,1,1,0,0,5.8,10
+Bravo,GK,PSG,Union Berlin,0,4,83,1,0,2,0,8,5.6,15
+Coman,FWD,Bayern,Benfica,0,4,81,1,0,2,0,0,10.2,7
+White,DEF,Arsenal,PSG,0,4,77,0,0,4,2,0,9.1,4
+Szczesny,GK,Barcelona,Braga,1,4,66,0,1,1,0,8,11.9,13
+Haaland,FWD,Man City,Leipzig,0,5,84,1,0,1,0,0,7.2,7
+Donnarumma,GK,PSG,Braga,0,5,79,0,0,2,0,10,7.5,12
+Mbappé,FWD,PSG,PSG,1,5,69,1,0,2,0,0,4.0,7
+Rüdiger,DEF,Real Madrid,Union Berlin,1,5,63,0,0,3,2,0,6.0,4
+Vinícius Júnior,FWD,Real Madrid,PSG,1,5,83,4,1,3,0,0,4.7,25
+Saliba,DEF,Arsenal,Union Berlin,1,5,72,0,1,2,2,0,10.6,7
+Rodrygo,FWD,Real Madrid,Napoli,1,5,90,2,0,5,0,0,11.1,12
+Marquinhos,DEF,PSG,Young Boys,0,5,65,1,0,3,2,0,10.3,9
+Lewandowski,FWD,Barcelona,Union Berlin,1,5,81,4,1,2,0,0,7.9,25
+Vitinha,MID,PSG,Young Boys,0,5,88,0,1,4,3,0,4.5,8
+Félix,FWD,Barcelona,Union Berlin,1,5,71,1,1,2,0,0,4.5,10
+Raphinha,FWD,Barcelona,Union Berlin,1,5,87,3,1,3,0,0,11.6,20
+Modrić,MID,Real Madrid,Union Berlin,1,5,68,0,0,0,1,0,8.8,3
+Neuer,GK,Bayern,Napoli,0,5,66,0,0,2,0,10,10.5,12
+Ederson,GK,Man City,Braga,1,5,76,0,1,2,0,5,6.3,10
+Joselu,FWD,Real Madrid,Celtic,1,5,82,0,1,1,0,0,8.9,5
+Valverde,MID,Real Madrid,Celtic,1,5,76,0,1,2,3,0,7.7,8
+Kane,FWD,Bayern,Braga,0,5,81,1,1,0,0,0,7.2,10
+Dias,DEF,Man City,Young Boys,1,5,78,0,0,1,2,0,10.8,4
+Skriniar,DEF,PSG,Union Berlin,0,5,83,0,0,1,5,0,9.0,7
+Saka,FWD,Arsenal,Benfica,1,5,62,2,0,1,0,0,9.9,12
+Raya,GK,Arsenal,Napoli,0,5,77,0,0,1,0,1,10.8,3
+Tenas,GK,PSG,Braga,0,5,67,0,0,2,0,7,12.9,9
+Diaz,FWD,Real Madrid,Napoli,1,5,60,0,0,5,0,0,5.1,2
+Álvarez,FWD,Man City,Young Boys,1,5,82,3,0,3,0,0,11.9,17
+Carvajal,DEF,Real Madrid,Celtic,0,5,82,0,0,0,0,0,11.4,2
+ter Stegen,GK,Barcelona,Leipzig,1,5,89,0,0,4,0,6,11.5,8
+Endrick,FWD,Real Madrid,PSG,1,5,85,2,1,0,0,0,10.5,15
+Mendy,DEF,Real Madrid,Young Boys,1,5,61,0,0,3,3,0,5.1,5
+Safonov,GK,PSG,Benfica,1,5,61,0,0,1,0,4,4.7,6
+Ugarte,MID,PSG,Young Boys,1,5,85,0,1,1,0,0,9.9,5
+Hakimi,DEF,PSG,Union Berlin,1,5,71,0,0,0,4,0,5.5,6
+Ramsdale,GK,Arsenal,Leipzig,1,5,73,0,1,3,0,2,10.7,7
+Peña,GK,Barcelona,Leipzig,1,5,82,0,0,7,0,6,5.1,8
+Mendes,DEF,PSG,PSG,1,5,76,0,0,2,1,0,6.7,3
+De Bruyne,MID,Man City,Union Berlin,0,5,63,0,2,2,2,0,11.5,10
+Gabriel,DEF,Arsenal,Benfica,1,5,71,0,1,2,5,0,4.8,10
+Ulreich,GK,Bayern,Braga,0,5,63,1,0,1,0,9,5.2,16
+Doku,FWD,Man City,Young Boys,1,5,79,3,0,3,0,0,8.6,17
+Grealish,FWD,Man City,PSG,1,5,81,1,2,1,0,0,8.3,13
+Pacho,DEF,PSG,Napoli,0,5,67,0,0,1,5,0,5.3,7
+Peretz,GK,Bayern,PSG,1,5,60,0,0,2,0,6,11.5,8
+Sané,FWD,Bayern,PSG,1,5,60,2,0,2,0,0,12.4,12
+Neto,GK,Arsenal,Napoli,1,5,64,0,0,3,0,3,8.1,5
+De Ligt,DEF,Bayern,Celtic,1,5,72,0,0,4,3,0,9.7,5
+Yamal,FWD,Barcelona,Celtic,1,5,72,2,0,3,0,0,10.0,12
+Bravo,GK,PSG,Braga,0,5,74,0,0,0,0,1,12.5,3
+Coman,FWD,Bayern,Celtic,0,5,68,1,1,2,0,0,5.0,10
+White,DEF,Arsenal,Celtic,1,5,62,0,0,1,3,0,4.1,5
+Szczesny,GK,Barcelona,Union Berlin,1,5,62,0,0,3,0,3,7.5,5
+Haaland,FWD,Man City,Young Boys,1,6,63,2,0,2,0,0,11.2,12
+Donnarumma,GK,PSG,Young Boys,0,6,87,0,0,0,0,1,7.3,3
+Mbappé,FWD,PSG,Union Berlin,1,6,87,0,0,1,0,0,5.3,2
+Rüdiger,DEF,Real Madrid,Benfica,0,6,60,1,0,2,5,0,9.4,12
+Vinícius Júnior,FWD,Real Madrid,Napoli,1,6,64,1,1,2,0,0,5.5,10
+Saliba,DEF,Arsenal,Leipzig,0,6,89,0,0,2,1,0,7.5,3
+Rodrygo,FWD,Real Madrid,Leipzig,0,6,77,0,1,1,0,0,11.5,5
+Marquinhos,DEF,PSG,Braga,1,6,87,0,1,5,1,0,8.9,6
+Lewandowski,FWD,Barcelona,Braga,0,6,76,2,1,2,0,0,11.4,15
+Vitinha,MID,PSG,Braga,0,6,85,0,0,3,1,0,8.0,3
+Félix,FWD,Barcelona,Celtic,1,6,70,1,1,2,0,0,11.1,10
+Raphinha,FWD,Barcelona,Young Boys,0,6,66,1,0,2,0,0,12.7,7
+Modrić,MID,Real Madrid,Braga,1,6,70,0,0,0,2,0,10.1,4
+Neuer,GK,Bayern,Napoli,1,6,85,1,0,4,0,3,10.9,10
+Ederson,GK,Man City,Celtic,0,6,70,1,0,3,0,6,4.0,13
+Joselu,FWD,Real Madrid,Napoli,0,6,60,2,0,3,0,0,12.3,12
+Valverde,MID,Real Madrid,Benfica,1,6,81,0,1,1,0,0,7.2,5
+Kane,FWD,Bayern,Leipzig,0,6,83,1,1,4,0,0,4.0,10
+Dias,DEF,Man City,Young Boys,0,6,63,1,0,1,6,0,9.5,13
+Skriniar,DEF,PSG,Benfica,0,6,68,0,0,1,1,0,8.9,3
+Saka,FWD,Arsenal,Union Berlin,1,6,72,2,0,3,0,0,8.5,12
+Raya,GK,Arsenal,Leipzig,1,6,75,0,0,2,0,6,6.4,8
+Tenas,GK,PSG,Union Berlin,0,6,66,0,0,4,0,4,9.3,6
+Diaz,FWD,Real Madrid,Benfica,1,6,79,0,0,1,0,0,6.7,2
+Álvarez,FWD,Man City,Celtic,1,6,89,1,0,2,0,0,6.6,7
+Carvajal,DEF,Real Madrid,Leipzig,1,6,61,0,0,1,0,0,11.0,2
+ter Stegen,GK,Barcelona,Leipzig,1,6,81,0,0,1,0,6,7.2,8
+Endrick,FWD,Real Madrid,Young Boys,0,6,86,1,1,4,0,0,10.1,10
+Mendy,DEF,Real Madrid,Napoli,1,6,82,0,0,2,4,0,10.4,6
+Safonov,GK,PSG,Braga,0,6,60,0,0,3,0,4,7.5,6
+Ugarte,MID,PSG,Benfica,0,6,62,0,1,2,1,0,11.4,6
+Hakimi,DEF,PSG,Celtic,1,6,75,0,1,4,2,0,5.1,7
+Ramsdale,GK,Arsenal,Young Boys,1,6,65,0,0,2,0,7,5.0,9
+Peña,GK,Barcelona,Leipzig,0,6,71,0,0,3,0,5,10.6,7
+Mendes,DEF,PSG,Union Berlin,0,6,71,0,0,4,5,0,12.8,7
+De Bruyne,MID,Man City,Young Boys,1,6,80,0,0,1,1,0,7.1,3
+Gabriel,DEF,Arsenal,Celtic,1,6,66,0,0,0,2,0,9.8,4
+Ulreich,GK,Bayern,Celtic,1,6,74,0,0,3,0,5,4.5,7
+Doku,FWD,Man City,PSG,1,6,63,4,1,4,0,0,7.3,25
+Grealish,FWD,Man City,Young Boys,1,6,71,0,2,2,0,0,12.8,8
+Pacho,DEF,PSG,Benfica,1,6,63,0,0,1,2,0,8.2,4
+Peretz,GK,Bayern,Celtic,0,6,68,0,0,2,0,2,7.7,4
+Sané,FWD,Bayern,Union Berlin,0,6,61,0,0,1,0,0,6.5,2
+Neto,GK,Arsenal,Union Berlin,1,6,77,0,0,3,0,5,7.5,7
+De Ligt,DEF,Bayern,PSG,1,6,68,0,1,4,1,0,4.7,6
+Yamal,FWD,Barcelona,Union Berlin,1,6,85,2,1,3,0,0,12.6,15
+Bravo,GK,PSG,Leipzig,0,6,67,0,0,2,0,6,8.5,8
+Coman,FWD,Bayern,Napoli,0,6,69,1,1,2,0,0,11.3,10
+White,DEF,Arsenal,Benfica,1,6,82,0,0,1,1,0,5.1,3
+Szczesny,GK,Barcelona,Napoli,1,6,83,1,1,2,0,7,4.5,17
